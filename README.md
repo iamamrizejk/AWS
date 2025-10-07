@@ -155,5 +155,6 @@ This repository serves as a **learning hub** and **reference collection** for:
 ## 🧠 Author
 
 **Amrize J K**
+
 AWS Certified | Cloud & QA Enthusiast
 🌐 [LinkedIn](https://www.linkedin.com/in/amrize-jk/) | 💻 [GitHub](https://github.com/iamamrizejk)
