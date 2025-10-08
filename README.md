@@ -39,17 +39,15 @@ Each series contains multiple sub-projects focused on step-by-step implementatio
 
 ---
 
-### 💬 Chatbot Series
+### 💬 Conversational AI with Amazon Lex
 
-Explore intelligent conversational experiences powered by **Amazon Lex** and **AWS Lambda**.
+* **Build a Chatbot with Amazon Lex** — Design an intelligent chatbot that understands natural language, recognizes user intent, and delivers smart conversational responses using Amazon Lex.
+* **Add Custom Slots to a Lex Chatbot** — Enhance the chatbot’s understanding by defining custom slot types, enabling it to capture and process dynamic user inputs accurately.
+* **Connect Amazon Lex with AWS Lambda** — Integrate your chatbot with AWS Lambda functions to execute backend logic, automate workflows, and provide real-time responses based on user interactions.
+* **Save User Info with a Lex Chatbot** — Implement data persistence to capture and store user information, personalizing interactions and improving conversation continuity.
+* **Set Up Multiple Slots in a Lex Chatbot** — Configure multiple slots within a single intent to handle complex dialogues and gather structured user data seamlessly.
 
-* **4.1 Build a Chatbot with Amazon Lex**
-* **4.2 Add Custom Slots to a Lex Chatbot**
-* **4.3 Connect Amazon Lex with AWS Lambda**
-* **4.4 Save User Info with a Lex Chatbot**
-* **4.5 Set Up Multiple Slots in a Lex Chatbot**
-
-Each step enhances the chatbot’s capabilities — from understanding user intent to integrating backend logic and user data handling.
+Build intelligent, data-aware chatbots powered by Amazon Lex and AWS Lambda for seamless, interactive user experiences.
 
 ---
 
