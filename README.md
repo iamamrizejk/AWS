@@ -112,6 +112,18 @@ End-to-end CI/CD setup demonstrating real-world automation pipelines and deploym
 
 ---
 
+### 🤖 Machine Learning & Data Science with Amazon SageMaker
+
+* **Build ML Models with Amazon SageMaker Studio** — Develop, train, and deploy machine learning models using the fully managed SageMaker Studio IDE. Explore notebook-based workflows, preprocessing pipelines, model training jobs, and real-time or batch deployment options.
+
+---
+
+### 🛡️ Cloud Threat Detection & Monitoring
+
+* **Threat Detection with Amazon GuardDuty** — Identify potential security threats, anomalous activities, and malicious behavior across your AWS environment using GuardDuty’s intelligent threat insights. Configure findings, analyze alerts, and implement automated remediation using EventBridge and Lambda.
+
+---
+
 ### ☁️ Multi-Cloud & IaC Projects
 
 * **Multi-Cloud Data Transfer with AWS and GCP** — Explore inter-cloud data migration and synchronization workflows.
